@@ -1,2 +1,3 @@
-*.exe
 [Bb]uilds/
+
+*.exe
